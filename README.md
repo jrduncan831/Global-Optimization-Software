@@ -26,7 +26,7 @@ http://theory.cm.utexas.edu/tsase/global_optimizer.html
 
 ## Demo  
 
-The script demo_bgsd.py is a short demo of how you can find a saddle point for an Aluminum Adatom on a (100) Surface with BGSD.  The low energy saddle points found and probabilities of finding various saddle points for this system can be found in Figures 6 and 8 of the BGSD publication. 
+The script demo_global_opt.py is a short demo of how you can combine basin and minima hopping with our software and optimize a 38 atom Lennard-Jones cluster.  
 
 ## Results
 
